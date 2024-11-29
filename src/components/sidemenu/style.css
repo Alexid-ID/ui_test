@@ -1,0 +1,13 @@
+.sidemenu-item {
+    padding: 8px;
+    border-radius: 8px;
+
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.sidemenu-item:hover {
+    background-color: #E6F1FF;
+    cursor: pointer;
+}
